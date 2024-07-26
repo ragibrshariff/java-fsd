@@ -1,0 +1,24 @@
+Java Exception and Array Problems
+------------------------------------
+https://www.hackerearth.com/problem/algorithm/karan-and-even-numbers-reloaded/      ->done
+https://www.hackerrank.com/challenges/java-exception-handling/problem			->done
+https://www.hackerrank.com/challenges/prime-checker/problem					->done
+https://www.hackerrank.com/challenges/java-md5/problem					->done
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/array-and-sums-6e5e7323/
+https://www.hackerearth.com/problem/algorithm/array-manipulation-1-ba7785f4/		->done
+https://www.hackerearth.com/problem/algorithm/awesome-arrays/
+https://www.hackerearth.com/problem/algorithm/hitesh-and-math-puzzle/
+https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/t-rex-and-the-pairs-0a045ce2/
+https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/count-pairs-9-d69fcdc3/ 
+https://www.hackerearth.com/problem/algorithm/palindrome-split-efe4c78a/?source=list_view
+String Problems:
+-----------------
+https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/strings-1/
+https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/greatest-string-fcf3e37c/
+https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/beautiful-strings-10/
+https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/find-the-string-4014dec6/
+https://www.hackerearth.com/problem/algorithm/two-strings-9/
+https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/bob-and-string-easy/
+
+
+
